@@ -1,0 +1,1 @@
+web: python3 dash_app_final.py

@@ -1,0 +1,6 @@
+---
+applications:
+  - name: dash_app_final
+    memory: 512M
+    buildpacks:
+      - python_buildpack
